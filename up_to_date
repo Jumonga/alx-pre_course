@@ -1,1 +1,1 @@
-git log main..master
+git pull
